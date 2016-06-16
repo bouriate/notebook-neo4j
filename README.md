@@ -32,5 +32,14 @@ http://www.opencypher.org
 
 https://www.youtube.com/watch?v=_U0EAUSgpqo
 
+https://www.google.com/search?client=safari&rls=en&q=graphork&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=FMxXV6-lKuHG7gTUjIfwDg
+
+https://www.coursera.org/learn/algorithms-on-graphs
+
+https://gesinn.it/de/wikiboxx
+
+http://www.fannon.de
+
+
 
 
