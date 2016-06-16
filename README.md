@@ -22,3 +22,15 @@ http://dmkpress.com/catalog/computer/programming/functional/978-5-97060-233-1/
 
 https://github.com/rossant/awesome-math
 
+https://www.hdfgroup.org
+
+https://en.wikipedia.org/wiki/Gallery_of_named_graphs
+
+https://github.com/mourner/rbush
+
+http://www.opencypher.org
+
+https://www.youtube.com/watch?v=_U0EAUSgpqo
+
+
+
